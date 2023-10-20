@@ -1,7 +1,6 @@
 // C++ program to demonstrate  
 // Function overriding 
-#include  
-<iostream> 
+#include <iostream> 
 using namespace std; 
 class GFG { 
 public: 
